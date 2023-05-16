@@ -11,8 +11,9 @@
   <!-- Social Media -->
   <div align="center" >
     <div>
-    <img  src="./assets/img/twitter.png"width="300 px" alt="">
-    <img  src="./assets/img/sponsor.png"width="300 px" alt="">
-    <img  src="./assets/img/tiktok.png" width="300 px"alt="">
+    <img  src="./assets/img/twitter.png"width="250 px" alt="">
+    <img  src="./assets/img/sponsor.png"width="250 px" alt="">
+    <img  src="./assets/img/tiktok.png" width="250 px"alt="">
+    <img  src="./assets/img/tutorial.png" width="250 px"alt="">
   </div>
 </div>
