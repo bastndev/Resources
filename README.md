@@ -3,10 +3,11 @@
     <img  src="./assets/img/Dan-img.png" width="500 px" alt="">
   </div>
     <div align="center">
-    <img  src="./assets/img/image.png" width="500 px" alt="">
+    <img  src="/assets/img/image2.png" width="500 px" alt="">
   </div>
     <div align="center">
-    <img  src="./assets/img/dev-img.png" width="500 px" alt="">
+    <img  src="./assets/img/dev-img1.png" width="200 px" alt="">
+    <img  src="./assets/img/dev-img.png" width="200 px" alt="">
   </div>
   <!-- Social Media -->
   <div align="center" >
