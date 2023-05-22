@@ -18,3 +18,9 @@
     <img  src="./assets/img/tutorial.png" width="250 px"alt="">
   </div>
 </div>
+
+  <div align="center">
+<img  src="./assets/img-team/cl.jpg" width="150 px"alt="">
+<img  src="./assets/img-team/mark.png" width="250 px"alt="">
+<img  src="./assets/img-team/q2.png" width="250 px"alt="">
+</div>
