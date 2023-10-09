@@ -24,3 +24,5 @@
 <img  src="./assets/img-team/mark.png" width="250 px"alt="">
 <img  src="./assets/img-team/q2.png" width="250 px"alt="">
 </div>
+
+![](/assets/snike/bastndev_snike.svg)
